@@ -32,17 +32,18 @@ span{
 
 }
 .title {
-    margin: 0px;
     font-size: 18px;
+    margin-bottom: 0px;
+    margin-top: 20px;
 }
 .details{
     margin-top: 6px;
     margin-bottom: 20px;
     color: #6C727F;
-    font-size: 12px;
+    font-size: 14px;
 }
 .name {
     margin: 20px 0px 0px 0px;
     color: #6C727F;
-    font-size: 10px;
+    font-size: 12px;
 }
